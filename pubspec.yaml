@@ -1,0 +1,19 @@
+name: crcanimation
+description: "A Flutter package for implementing CRC animation. Don't forget to subscribe to Code Red Clan!"
+version: 0.0.2
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+homepage: https://github.com/RanaSharjeelShji/crcanimation.git
+license: MIT
